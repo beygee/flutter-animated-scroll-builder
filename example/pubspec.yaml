@@ -1,6 +1,8 @@
 name: animated_scroll_builder_example
 description: Demonstrates how to use the screenshot_callback plugin.
 
+version: 0.0.1
+
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
