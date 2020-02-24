@@ -1,0 +1,19 @@
+name: animated_scroll_builder_example
+description: Demonstrates how to use the screenshot_callback plugin.
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  animated_scroll_builder:
+    path: ../
+
+flutter:
+  uses-material-design: true
